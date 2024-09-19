@@ -221,7 +221,7 @@ class MambaLayer(nn.Module):
     def forward(self, x):
         if x.dtype == torch.float16 or x.dtype == torch.bfloat16:
             x = x.type(torch.float32)
-            out = self.forward_res(x)
+        out = self.forward_res(x)
 
         return out
 

@@ -18,7 +18,7 @@ class nnUNetTrainerMambaClinix(nnUNetTrainer):
     ):
         super().__init__(plans, configuration, fold, dataset_json, unpack_dataset, device)
 
-        self.initial_lr = 1e-3
+        self.initial_lr = 1e-4
         self.weight_decay = 1e-5
 
     @staticmethod
