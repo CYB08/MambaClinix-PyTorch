@@ -2,7 +2,7 @@
 
 - Official repository for "MambaClinix: Hierarchical Gated Convolution and Mamba-Based U-Net for Enhanced 3D Medical Image Segmentation." [arXiv, 2024](https://arxiv.org/abs/2409.12533)
 
-![Framework](C:\Users\HP\Desktop\resource\Fig1.png)
+![Framework](https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/Fig1.png)
 
 ![Block](C:\Users\HP\Desktop\resource\Fig2.png)
 
