@@ -5,7 +5,7 @@
 ![Framework](https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/Fig1.png)
 
 ![Block](https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/Fig2.png)
-https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/video.jpg
+
 [![](https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/video.jpg)](https://www.bilibili.com/video/BV1VYbFepEDk/?spm_id_from=333.999.list.card_archive.click)
 
 ## Installation 
