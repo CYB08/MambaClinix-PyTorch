@@ -5,10 +5,8 @@
 ![Framework](https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/Fig1.png)
 
 ![Block](https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/Fig2.png)
-
-https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/video.mp4
-
-[![](https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/Fig2.png)](https://player.bilibili.com/player.html?aid=683633468&bvid=BV1jS4y1w7SW&cid=711074429&page=1)
+https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/video.jpg
+[![](https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/video.jpg)](https://www.bilibili.com/video/BV1VYbFepEDk/?spm_id_from=333.999.list.card_archive.click)
 
 ## Installation 
 
