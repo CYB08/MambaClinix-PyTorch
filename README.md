@@ -4,7 +4,7 @@
 
 ![Framework](https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/Fig1.png)
 
-![Block](C:\Users\HP\Desktop\resource\Fig2.png)
+![Block](https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/Fig2.png)
 
 ## Installation 
 
