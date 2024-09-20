@@ -8,7 +8,7 @@
 
 https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/video.mp4
 
-![Video](./assets/video.mp4)
+![Video]([./assets/video.mp4](https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/video.mp4))
 
 
 ## Installation 
