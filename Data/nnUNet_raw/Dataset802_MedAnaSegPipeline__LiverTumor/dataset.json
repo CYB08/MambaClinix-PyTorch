@@ -1,0 +1,16 @@
+{
+    "name": "Liver",
+    "description": "Liver tumor segmentation",
+    "licence": "CC-BY-SA 4.0",
+    "release": "https://github.com/CYB08",
+    "tensorImageSize": "3D",
+    "labels": {
+        "background": 0,
+        "tumor": 1
+    },
+    "numTraining": 25,
+    "file_ending": ".nii.gz",
+    "channel_names": {
+        "0": "CT"
+    }
+}
