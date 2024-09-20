@@ -8,6 +8,8 @@
 
 https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/video.mp4
 
+[![](https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/Fig2.png)](https://player.bilibili.com/player.html?aid=683633468&bvid=BV1jS4y1w7SW&cid=711074429&page=1)
+
 ## Installation 
 
 Requirements: `ubuntu 22.04` + `Python 3.10` + `torch 2.0.1` + `torchvision 0.15.2 (cuda 11.8)` 
