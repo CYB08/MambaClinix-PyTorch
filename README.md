@@ -6,6 +6,8 @@
 
 ![Block](https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/Fig2.png)
 
+https://github.com/CYB08/MambaClinix-PyTorch/blob/main/assets/video.mp4
+
 ## Installation 
 
 Requirements: `ubuntu 22.04` + `Python 3.10` + `torch 2.0.1` + `torchvision 0.15.2 (cuda 11.8)` 
